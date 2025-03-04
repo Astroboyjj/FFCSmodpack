@@ -1,0 +1,13 @@
+name = "Info Tools"
+filename = "info-tools-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vSoR3IrK/versions/BN88AKe6/info-tools-1.2.7.jar"
+hash-format = "sha512"
+hash = "afbfbe1b99cb1e20a88b08f4c588e620182dbf3b47253f76f7594d08a2b489d4de467f6791c37749c746a4f11608753ebc04ca51e470db5c99eff77ccd778dac"
+
+[update]
+[update.modrinth]
+mod-id = "vSoR3IrK"
+version = "BN88AKe6"

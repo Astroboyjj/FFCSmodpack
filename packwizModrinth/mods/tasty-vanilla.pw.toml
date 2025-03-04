@@ -1,0 +1,13 @@
+name = "Tasty Vanilla"
+filename = "tastyvanilla-1.2.4_1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/r3IUi4Ac/versions/y1xyKTyG/tastyvanilla-1.2.4_1.21.4.jar"
+hash-format = "sha512"
+hash = "81e75645b502f52f0d18d210449e7622b2207fffb4a30a8fbadccf255091011bd5460d52e28296447c838bcba4930d1a991a46f354870648d158ae96a41186ab"
+
+[update]
+[update.modrinth]
+mod-id = "r3IUi4Ac"
+version = "y1xyKTyG"

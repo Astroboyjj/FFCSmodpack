@@ -1,0 +1,236 @@
+hash-format = "sha256"
+
+[[files]]
+file = "mods/architectury-api.pw.toml"
+hash = "848c49f2ead5e1e71d7be95d2d9e1cb992631faf91500b9c59e72d61afca33fd"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "fe5f1014f6711013213e118c9defb3c41357d0ebdaa658f15d35c76839e419a0"
+metafile = true
+
+[[files]]
+file = "mods/biomes-o-plenty.pw.toml"
+hash = "9596e77cb171c4a2c0e502e2abee6ce3a974478427189faad42d9e1730346a6f"
+metafile = true
+
+[[files]]
+file = "mods/bl4cks-sit.pw.toml"
+hash = "2996a6662370b99f4f6a0b2f5f9a9b285b5c1ed6dc4171d8ba27b1188765011d"
+metafile = true
+
+[[files]]
+file = "mods/bobby.pw.toml"
+hash = "783f6391e53272943cce060fd820d1c5b7cbdf94df1341f250bf09eaa296171c"
+metafile = true
+
+[[files]]
+file = "mods/camerapture.pw.toml"
+hash = "ca6ac03b53c7439e32ce09b588ab507268d87d72df35e9cb2e9c183601798228"
+metafile = true
+
+[[files]]
+file = "mods/clientsort.pw.toml"
+hash = "89773e8040bd6a168e067704859e3403a376779d5e2462c15c5d5be78380077e"
+metafile = true
+
+[[files]]
+file = "mods/cloth-config.pw.toml"
+hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-lights.pw.toml"
+hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
+metafile = true
+
+[[files]]
+file = "mods/energized-power-bop.pw.toml"
+hash = "b544568fd69ad08f7b52318defa3e8cbbf706f9a4268c55bbae514c6b98ba904"
+metafile = true
+
+[[files]]
+file = "mods/energized-power.pw.toml"
+hash = "b0a10ef6693c1182afbe7d25db6b87a6a57ce0e20a9facf35d59db97403baca0"
+metafile = true
+
+[[files]]
+file = "mods/fabric-api.pw.toml"
+hash = "71e384f643d16f13d509c543c26e81542baa22599365d6c16d867cd1eeda5acd"
+metafile = true
+
+[[files]]
+file = "mods/fast-minecart.pw.toml"
+hash = "7f1d6fd22908bf803be16546278cc6e0d763df7686e48534bdf8a892f6825b34"
+metafile = true
+
+[[files]]
+file = "mods/fast-sleep.pw.toml"
+hash = "611a10a1f049131c56d05d59b9e491657ff3aa2d9ed23fcee1a7acbe6006a2cf"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "1ef554f7a8d5f7ed4bc21316e034eeef3430dc306012c0a706bd4c3e4ac253aa"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "4b257578b2973f4e99ae3192989f7ba4db19e9eca99ea396a1479c8a6cd9ca88"
+metafile = true
+
+[[files]]
+file = "mods/frozenlib.pw.toml"
+hash = "225c4865d74e4816f4320ac223fe8ceb13157ead6729a3f0dd06e6b88d4e715b"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "55a8a0323890cc345666b4b0882c10c33b8d6f618014b0f0b561853bc22553b4"
+metafile = true
+
+[[files]]
+file = "mods/glitchcore.pw.toml"
+hash = "a2c985cf1b1774fe4e06a766c147bfa3e68e8cb16ce960c3f9c8a125de4777cf"
+metafile = true
+
+[[files]]
+file = "mods/hang-glider.pw.toml"
+hash = "225ae9d165dd0bc7a2f9b51b014516a2b70fe8487830db9afdb3ba828b4e3532"
+metafile = true
+
+[[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "f293bc44a5350f8c10eca8b634e0f2b7f10aa240bad0239a0735a5631cc00091"
+metafile = true
+
+[[files]]
+file = "mods/info-tools.pw.toml"
+hash = "501b84fd52551ec681142ab76c698be0ef98e701f24ff86f103fde9139b45569"
+metafile = true
+
+[[files]]
+file = "mods/integrated-circuit.pw.toml"
+hash = "933ba5be23113bfba5a0a38533aa50cf12cf82575b9305a8afe2795c130dce7e"
+metafile = true
+
+[[files]]
+file = "mods/journeymap.pw.toml"
+hash = "24ad69028d30b488a0d7b9ffe230d2e2eb3c29938268e0ae02615fce4c8d534f"
+metafile = true
+
+[[files]]
+file = "mods/lithium.pw.toml"
+hash = "97697e194c4e9742501485140b71b4104b857f27bd34446816fd55e4ec486e2c"
+metafile = true
+
+[[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "4db1cc6332e720e97e04c087e94b03c2384c0cce0628640082f1f0d18fce4d07"
+metafile = true
+
+[[files]]
+file = "mods/mmv-moogs-missing-villages.pw.toml"
+hash = "1caa2c519c1cb9df4cbdfaaa57f8072cd0d4954534c2a642d38393fed6674572"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "840c227bdb445adac2263c4625ffa93e80d5b8b814499819a3cececb8e0c8c7f"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "a874985359eaa4317b3242136fe65b86207a6d5ab55e0b4aa8f37b90727f0487"
+metafile = true
+
+[[files]]
+file = "mods/modmenu.pw.toml"
+hash = "5ca4c5d71d0e9fbcc9a8561fe3e05fbdad8150d98e5976e9fec8f62c103ebeea"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "2e0c3225f852ff3c15b5f551242b30463cbf79bc88bcb3567e86e6c18d00840c"
+metafile = true
+
+[[files]]
+file = "mods/mss-moogs-soaring-structures.pw.toml"
+hash = "7fe536ca46627aa42245806c66a8914d2978b5738d471fefd38b69927ed5fb7b"
+metafile = true
+
+[[files]]
+file = "mods/natures-compass.pw.toml"
+hash = "89ca5200f045e0b98fbe7724131e17a9e22b7a30762610df3978ecd0d1a37f6a"
+metafile = true
+
+[[files]]
+file = "mods/noisium.pw.toml"
+hash = "85ae542e2ccfb61bcdd3aa55b1a56436782687ba63388e249cb98376737045d4"
+metafile = true
+
+[[files]]
+file = "mods/paladins-furniture.pw.toml"
+hash = "31a0e460a8230dd3cbb86fa8d42772e1764d34ee74bec2a55186b7b00eaa17a3"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "aaaf9ddaeac7088e95727a8eb4577bb85423affb8c46fd3cddaebe6c9e2b75bf"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "a114af4839c8e24e6379a4225bc950be2e2a3cb98a8dc2cc709e1ad4de0aede1"
+metafile = true
+
+[[files]]
+file = "mods/quicksort.pw.toml"
+hash = "855c1e0c3fab0c8168d3904d756f4076662fb1c25b5430f65178101b124aecc9"
+metafile = true
+
+[[files]]
+file = "mods/rei.pw.toml"
+hash = "9a53bc41ea5265170f6a87285744c158834881ec706c68c2b8101f740396b36b"
+metafile = true
+
+[[files]]
+file = "mods/simple-copper-pipes.pw.toml"
+hash = "1bb4d047e432cff55ff23e33212cfb8451c021bb5530835a066cabf6e0d6fbe8"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "554c7a130f96d1afa0e024148258fb7d012d6255324d09cbf18b9ec68ec7ca9e"
+metafile = true
+
+[[files]]
+file = "mods/tasty-vanilla.pw.toml"
+hash = "88a886a77dbc4efe23ecd8e25becb94797e44f8b070cd9ab5c6fdf980f2eb1ce"
+metafile = true
+
+[[files]]
+file = "mods/terrablender.pw.toml"
+hash = "87ca87824963638afdd75daa6708e8368436b3fabe51b4216ac25c74e7574d17"
+metafile = true
+
+[[files]]
+file = "mods/terralith.pw.toml"
+hash = "da7ee99189ad35aac094919fe33cac647d98533b23c228f10d4811f08989e2b8"
+metafile = true
+
+[[files]]
+file = "mods/threadtweak.pw.toml"
+hash = "5afa351b0c8e379990b962af499f90b124a4c79fc86f8f3dc3ef716a472e766e"
+metafile = true
+
+[[files]]
+file = "mods/vanilla-backpacks.pw.toml"
+hash = "1295fa98e9912231309b80f0b7c2d64b5f08d57b17f9cf54fd85751dec64a0b0"
+metafile = true
+
+[[files]]
+file = "mods/vmp-fabric.pw.toml"
+hash = "b59261452b61286cd8eab263e9f066d5d14c4cf8f99ec8142eab5df4da814ddd"
+metafile = true

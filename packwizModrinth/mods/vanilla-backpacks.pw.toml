@@ -1,0 +1,13 @@
+name = "Backpacks!"
+filename = "1.3.0-backpacks_mod-1.21.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGcd6kTf/versions/s09HDQK3/1.3.0-backpacks_mod-1.21.4.jar"
+hash-format = "sha512"
+hash = "607f2ec6e1a61f27ddfee8942773c9e28e520207bf8400e6941208a0e767ddfdd395fe13a51aabad35d4113463b4015274b162acc2fa411f96dc7e091ef53872"
+
+[update]
+[update.modrinth]
+mod-id = "MGcd6kTf"
+version = "s09HDQK3"
