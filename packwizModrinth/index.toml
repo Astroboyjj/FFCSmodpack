@@ -41,8 +41,8 @@ hash = "df15648dd4d4e27dd0c45ab4e78277c45886b77a698b129f4ce2d2bc337f7044"
 metafile = true
 
 [[files]]
-file = "mods/dynamic-lights.pw.toml"
-hash = "e93239302d3fb067ae5c53aabf551550430b11f04fd3a8a8d23c74d1d554fd2f"
+file = "mods/dynamic-lights-creepermeyt.pw.toml"
+hash = "64f2b7c2271aedce3eefb981becf983511e49041e05283167f5513e2a4767d35"
 metafile = true
 
 [[files]]
@@ -128,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "4db1cc6332e720e97e04c087e94b03c2384c0cce0628640082f1f0d18fce4d07"
-metafile = true
-
-[[files]]
-file = "mods/midnightlib.pw.toml"
-hash = "a6b3b40b885317b6b01d4e63a9d3680daa2600e574ea6180c161c641eb6ffe33"
 metafile = true
 
 [[files]]
