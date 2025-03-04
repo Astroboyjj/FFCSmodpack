@@ -181,6 +181,11 @@ hash = "aaaf9ddaeac7088e95727a8eb4577bb85423affb8c46fd3cddaebe6c9e2b75bf"
 metafile = true
 
 [[files]]
+file = "mods/placeholder-api.pw.toml"
+hash = "6b2abdc14fca0b9b42b5678e7c65af8b93d5032f0e4b0d2fbd93295903489d50"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "a114af4839c8e24e6379a4225bc950be2e2a3cb98a8dc2cc709e1ad4de0aede1"
 metafile = true
