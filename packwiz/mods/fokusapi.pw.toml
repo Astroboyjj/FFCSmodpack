@@ -1,0 +1,13 @@
+name = "FokusAPI"
+filename = "fokusapi-2.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "874ea961e44ffc329706092e0c059f583b533aa2"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6195259
+project-id = 1194409

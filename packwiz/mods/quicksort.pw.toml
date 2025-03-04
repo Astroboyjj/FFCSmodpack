@@ -1,0 +1,13 @@
+name = "Quicksort"
+filename = "quicksort-0.14.0+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "29403e9fb74a5230c08d5e6a3b860cbac45d8759"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6026673
+project-id = 641431

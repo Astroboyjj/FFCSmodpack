@@ -1,0 +1,13 @@
+name = "FFCSmodpack"
+author = "Jacob Jeffery"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "b93835290bc11e8bcf5f4d80a9459834747662f3a34aa23562c59cc17a9e97d0"
+
+[versions]
+fabric = "0.16.10"
+minecraft = "1.21.4"

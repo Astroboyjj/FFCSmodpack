@@ -1,0 +1,10 @@
+{
+  "config-version": 2,
+  "claimed-damage": false,
+  "claimed-immune-kill-command": true,
+  "enable-hoppers": true,
+  "ignore-baby-villagers": true,
+  "ignore-claimed-villagers": true,
+  "partner-limit-per-player": 10,
+  "check-update": true
+}

@@ -1,0 +1,13 @@
+name = "Energized Power - Biomes O' Plenty"
+filename = "energizedpowerbop-1.21.4-1.0.0-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "02063451c166e4c8fcca049889970e16809944ad"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6151500
+project-id = 1108229

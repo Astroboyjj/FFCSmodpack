@@ -1,0 +1,13 @@
+name = "ClickVillagers"
+filename = "ClickVillagers-fabric-1.2.2+1.21.4.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "6310b2b524c34f984418a49bf25974248e75ae5e"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 6194173
+project-id = 1162587

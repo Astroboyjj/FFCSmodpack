@@ -1,0 +1,13 @@
+name = "Dynamic Lights [Server] [Forge/Fabric/Quilt]"
+filename = "dynamiclights-v1.8.5-mc1.17x-1.21x-mod.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "1ba56edec270e1fd612b9027262eeb67081d7e3d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 5960422
+project-id = 910095
