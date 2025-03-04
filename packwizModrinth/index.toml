@@ -131,6 +131,11 @@ hash = "4db1cc6332e720e97e04c087e94b03c2384c0cce0628640082f1f0d18fce4d07"
 metafile = true
 
 [[files]]
+file = "mods/midnightlib.pw.toml"
+hash = "a6b3b40b885317b6b01d4e63a9d3680daa2600e574ea6180c161c641eb6ffe33"
+metafile = true
+
+[[files]]
 file = "mods/mmv-moogs-missing-villages.pw.toml"
 hash = "1caa2c519c1cb9df4cbdfaaa57f8072cd0d4954534c2a642d38393fed6674572"
 metafile = true
